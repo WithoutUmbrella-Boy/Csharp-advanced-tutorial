@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-Lambda表达式", "010-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011-事件", "011-事件\011-事件.csproj", "{55FBB2DB-D19C-4469-8305-282E41F451D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012-观察者设计模式-猫捉老鼠", "012-观察者设计模式-猫捉老鼠\012-观察者设计模式-猫捉老鼠.csproj", "{20481E49-432B-42B0-8482-4641F6C48019}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{55FBB2DB-D19C-4469-8305-282E41F451D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55FBB2DB-D19C-4469-8305-282E41F451D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55FBB2DB-D19C-4469-8305-282E41F451D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20481E49-432B-42B0-8482-4641F6C48019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20481E49-432B-42B0-8482-4641F6C48019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20481E49-432B-42B0-8482-4641F6C48019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20481E49-432B-42B0-8482-4641F6C48019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

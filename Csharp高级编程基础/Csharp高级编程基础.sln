@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-多播委托", "008-多
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009-匿名方法", "009-匿名方法\009-匿名方法.csproj", "{8F4F05E6-3106-4B5A-A4C4-539D14F9DB96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-Lambda表达式", "010-Lambda表达式\010-Lambda表达式.csproj", "{07533148-AD35-43D0-83C6-3AA938830C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011-事件", "011-事件\011-事件.csproj", "{55FBB2DB-D19C-4469-8305-282E41F451D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{8F4F05E6-3106-4B5A-A4C4-539D14F9DB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F4F05E6-3106-4B5A-A4C4-539D14F9DB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F4F05E6-3106-4B5A-A4C4-539D14F9DB96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07533148-AD35-43D0-83C6-3AA938830C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07533148-AD35-43D0-83C6-3AA938830C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07533148-AD35-43D0-83C6-3AA938830C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07533148-AD35-43D0-83C6-3AA938830C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FBB2DB-D19C-4469-8305-282E41F451D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FBB2DB-D19C-4469-8305-282E41F451D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FBB2DB-D19C-4469-8305-282E41F451D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FBB2DB-D19C-4469-8305-282E41F451D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
